@@ -1,6 +1,12 @@
+'''
+Lab 2 problem 1: right arrow
+Name: Emma J. Verdugo
+lab: @2pm
+'''
+
 def right_arrow():
-    base_char = input()
-    head_char = input()
+    base_char = input('Enter character for base of arrow: ')
+    head_char = input('Enter character fo head of arrow: ')
 
     row1 = '      ' + head_char
     ''' Type your code here. '''
