@@ -1,6 +1,6 @@
 def right_arrow():
-    base_char = input('Enter character for base of arrow: ')
-    head_char = input('Enter character fo head of arrow: ')
+    base_char = input()
+    head_char = input()
 
     row1 = '      ' + head_char
     ''' Type your code here. '''
