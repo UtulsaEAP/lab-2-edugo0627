@@ -1,3 +1,8 @@
+'''
+Lab 2 problem 1: making a right arrow with 2 inputs
+Name: Emma J. Verdugo
+Lab: @2pm
+'''
 def right_arrow():
     base_char = input()
     head_char = input()

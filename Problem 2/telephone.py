@@ -1,3 +1,8 @@
+'''
+Lab 2 problem 2: Outputing 10 digit phone numbe in the format (xxx) xxx-xxxx
+Name: Emma J. Verdugo
+Lab: @2pm
+'''
 def telephone():
     phone_number = int(input())
     ''' Type your code here. '''
@@ -9,8 +14,8 @@ def telephone():
     
     first_three = phone_number // 10000000
     
-    print(first_three,middle_three,last_four)
-    
+    print( '(' + str(first_three)+ ')' + ' ' + str(middle_three)+ '-' + str(last_four))
+
 
 if __name__ == "__main__":
     telephone()
