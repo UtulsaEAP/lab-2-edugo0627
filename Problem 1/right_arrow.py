@@ -1,10 +1,3 @@
-'''
-Lab 2 assignment problem 1: right arrow
-Name: Emma J. Verdugo
-Lab Time: @2pm
-
-'''
-
 def right_arrow():
     base_char = input("Enter firt character: ")
     head_char = input("Enter second character: ")
