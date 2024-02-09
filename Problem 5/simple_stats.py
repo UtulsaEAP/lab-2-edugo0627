@@ -1,5 +1,5 @@
 '''
-Lab 2 problem 5:
+Lab 2 problem 5: given 4 numbers and finding there avergage and product as floats and intergers 
 Name: Emma J. Verdugo
 lab: @2pm
 '''
