@@ -11,10 +11,7 @@ def caffeine():
     hours_12 = float(caffeine_mg)*.5**(12/6)
     hours_24 = float(caffeine_mg)*.5**(24/6)
 
-    line_break = '\n'
-
-    print('     After 6 hours: ' + f'{hours_6:.2f}' + ' mg' + '\n' + '     After 12 hours: ' + f'{hours_12:.2f}' + ' mg' + '\n' + '     After 24 hours: ' + f'{hours_24}' + ' mg')
-    
+    print
     
 if __name__ == "__main__":
     caffeine()
